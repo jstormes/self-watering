@@ -33,7 +33,7 @@ to set the both the low and high voltages so we can "play" with it to get the be
 Searching found this:  https://electronics.stackexchange.com/questions/661213/low-voltage-cut-off-of-solar-panel-supply
 
 Second, the kit I bought used a relay.  While it works, being outdoors exposed to moisture it is only a matter of time
-before the contact corrode.
+before the contacts corrodes.
 
 So for the second stage moisture sensing circuit, we need to replace the relay with a MOSFET to control the motor. 
 
