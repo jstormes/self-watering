@@ -8,7 +8,7 @@ Ok I would like to say I travel a lot or something like that, but I just forget 
 So like any lazy engineer I want to create an automatic watering system.  But not just any system.
 I want it to use minimal water, I want it te be self-contained and I want it to be solar-powered.
 
-I create versions 1, 2 and 3 with an off the shelf set of electronic bough online, but I have found 
+I created versions 1, 2 and 3 with an off the shelf set of electronic bough online, but I have found 
 them lacking.  
 
 This project will be my attempt to create a better self watering system.
@@ -32,7 +32,7 @@ to set the both the low and high voltages so we can "play" with it to get the be
 
 Searching found this:  https://electronics.stackexchange.com/questions/661213/low-voltage-cut-off-of-solar-panel-supply
 
-Second, the kit I used a relay.  While it works, being outdoors exposed to moisture it is only a matter of time
+Second, the kit I bought used a relay.  While it works, being outdoors exposed to moisture it is only a matter of time
 before the contact corrode.
 
 So for the second stage moisture sensing circuit, we need to replace the relay with a MOSFET to control the motor. 
