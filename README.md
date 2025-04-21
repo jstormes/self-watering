@@ -46,7 +46,23 @@ Key part ideas:
 
 Short circuit protection: https://www.mouser.com/ProductDetail/YAGEO/BK60-005-DZ?qs=PzGy0jfpSMvFI562sjyP8A%3D%3D
 
-The good old LM393:  https://www.ti.com/product/LM393
+The good old LM393: https://www.ti.com/product/LM393
 
 Possible MOSFET: https://www.mouser.com/ProductDetail/onsemi-Fairchild/FDC642P
+
+Parts I am using so far:
+
+Solar panels:
+
+https://www.aliexpress.com/item/3256806980290613.html
+
+https://www.amazon.com/dp/B0D86YFRF3
+
+Pump:
+
+https://www.aliexpress.com/item/3256804920163520.html
+
+Soil probe: 
+
+https://www.aliexpress.com/item/3256806726279754.html
 
