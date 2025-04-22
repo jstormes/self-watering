@@ -31,7 +31,7 @@ and with just the alarm circuit active.  This is to simulate the sun rising, set
 The circuit is a success when it can be set to not cycle quickly under partial cover, but turns on and off
 without stuttering.
 
-### Moisture sensor turns pumps on/off
+### Moisture sensor turns pump on/off
 
 The pump power should only turn on when the water probe lacks sufficient moisture.  
 
@@ -45,14 +45,18 @@ add water to the soil until the pump turns off.
 The circuit is a success when it turns on the pump to water the soil then turns off the pump based on
 where the variable resistor is set.
 
-### Moisture alarm turns os/off
+### Moisture alarm turns on/off
 
 The alarm should only turn on when the water probe lacks sufficient moisture.  This setting should be 
 independent of the pump moisture sensor.
 
-The set point for the where the moisture alarm turns on should be set by on onboard variable resister.
+The set point for where the moisture alarm turns on should be set by on onboard variable resister.
 
 There should be two headers for the moisture alarm, one for a LED and one for a buzzer.
+
+We will test the moisture sensor just like the pump on/off test.
+
+The circuit is a success when the alarm turns on when the soil is too dry.
 
 ## Other versions 
 
@@ -64,7 +68,9 @@ can get them assembled by PCBWay.
 ### 12 volt version
 
 This version is just like the 5 volt version but runs on 12 volts and supports a 12 volt pump for larger 
-projects.  This version should be surface mount for assembly by PCBWay.
+watering projects.
+
+This version should be surface mount for assembly by PCBWay.
 
 ### (Optional) Battery charge version
 
