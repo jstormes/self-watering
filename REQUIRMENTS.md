@@ -37,6 +37,8 @@ The pump power should only turn on when the water probe lacks sufficient moistur
 
 The set point for where the pump turns on should be set by an onboard variable resister. 
 
+The motor sensor should have a keyed header for connecting to the motor for the pump.
+
 The motor sensor should have a keyed header for a LED so we know when the pump should be running.
 
 We will test the moisture sensor by putting it in dry soil.  It should turn on the pump.  We will then 
