@@ -25,7 +25,7 @@ version as well, but version 1.0 will only be available in 5 volts.
 The power shoud have a keyed header for a LED so we know when power is available.
 
 We will test power on/off by using a dark piece of paper and sliding it across the solar panel until the 
-circuit turn off.  Then we will uncover the panel until the circuit turns on.  We will do this both under locd
+circuit turn off.  Then we will uncover the panel until the circuit turns on. We will do this both under load
 and with just the alarm circuit active.  This is to simulate the sun rising, setting and being covered by clouds.
 
 The circuit is a success when it can be set to not cycle quickly under partial cover, but turns on and off
